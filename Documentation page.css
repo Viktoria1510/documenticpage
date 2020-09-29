@@ -1,0 +1,36 @@
+@media only screen and (max-width: 815px)
+#navbar {
+    position: absolute;
+    width: 100%;
+    max-height: 275px;
+}
+#navbar {
+    position: fixed;
+    background-color: darksalmon;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: black;
+}
+.nav-link {
+    font-size: 25px;
+    font-style: italic;
+}
+#main-doc {
+    margin-left: 310px;
+    padding: 20px;
+    margin-bottom: 110px;
+}
+header {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+body {
+    background-color: burlywood;
+}
+.main-section {
+    font-size: 30px;
+}
